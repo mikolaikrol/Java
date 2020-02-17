@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="util.CharacterHasWrongStrengthOrHealthException" project="donjon" 
+    file="/donjon/src/main/java/util/CharacterHasWrongStrengthOrHealthException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="79" width="299" x="121" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="util.Input" project="donjon" file="/donjon/src/main/java/util/Input.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="115" x="460" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="util.NoRoomInThisDirectionException" project="donjon" 
+    file="/donjon/src/main/java/util/NoRoomInThisDirectionException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="217" x="615" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="util.DirectionAlreadyAssignedException" project="donjon" 
+    file="/donjon/src/main/java/util/DirectionAlreadyAssignedException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="232" x="872" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="util.BadParametersForThisItemException" project="donjon" 
+    file="/donjon/src/main/java/util/BadParametersForThisItemException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="240" x="1144" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="util.Direction" project="donjon" 
+    file="/donjon/src/main/java/util/Direction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="120" x="1424" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
